@@ -14,10 +14,11 @@ OR
 file could be chosen manually from the UN Aquastat system:
 [https://www.fao.org/aquastat/en/](https://data.apps.fao.org/aquastat/?lang=en)
 
-
+```text
 ## Project Structure:
 
 WatchAqua/
 └── data/
     ├── 1_raw/           # Raw data (here AQUASTAT_2025.csv should be saved in).
     └── 2_processed/     # Data processed after ETL
+```
